@@ -1,6 +1,5 @@
 package com.example.vedad.moviesearch;
 
-import android.annotation.SuppressLint;
 import android.app.SearchManager;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -14,7 +13,6 @@ import android.os.Bundle;
 import android.support.v7.widget.SearchView;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
